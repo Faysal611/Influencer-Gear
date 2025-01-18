@@ -82,6 +82,7 @@ body {
 .logo-container {
     display: flex;
     gap: 60px;
+    flex-wrap: wrap;
 }
 
 /* popular container */
@@ -258,7 +259,7 @@ body {
     gap: 10px;
     background-color: rgb(48, 30, 79);
     padding: 50px 0px 50px 0px;
-
+    width: 100vw;
 }
 
 .footer-title {
